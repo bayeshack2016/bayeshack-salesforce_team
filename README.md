@@ -17,7 +17,7 @@ While examining the complex dynamics of large economic adaptation requires colle
 ##Project Components:
 **1. Craigslist Job Scraper (iPython notebook):** code that scrapes today's job postings from Craigslist. We use Craigslist data as an example data set-- this is challenging/interesting becuase there is no API and CL mostly contains job postings for low/middle skill workers. Our model can be used to classify and strucutre job descriptions from any website. 
 
-**2. ML Model (Scikit Learn):** machine learning model that takes a string of words and returns job recommnedations
+**2. ML Model (Scikit Learn):** machine learning model that takes a string of words and returns job recommendations. This model was developed by leveraging a vast amount of data from the DOL related to occupations/skills/tools/etc.
 
 **3. Web App (Heroku/Flask):** web application deployed on Heroku that deomstrates a use case of the engine. In this web app, a user can upload a resume or describes their experience/skills, and the app will recommend personalized occupations. In addtion, the app will map related, Craigslist job postings with posting links. 
 <hr> 
