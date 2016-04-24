@@ -10,7 +10,7 @@ This model can be quickly integrated into the existing O*NET web application in 
 
 **1. Related occupations tool:** Currently, related occupations are static and are linked only between occupation codes. Our model can intake a resume or an unstructured block of text that describes an individual's job experience/skills/etc. and return a list of most related occupations. Our approach is personalized, drawing on the individual’s skills, experiences, background as opposed to only the job title/occupation code.
 
-**2. Occupation growth forecasts based on real job postings:** Currently, the job forecasts posted on O*NET are static and based on a single study. With our collection and classification of job posting, we are able to provide dynamic growth rates of occupations and skills by geography. In addition, individuals can continue to leverage existing government resources associated with specific occupation codes. 
+**2. Occupation growth forecasts based on dynamic job postings:** Currently, the job forecasts posted on O*NET are static and based on a single study. With our collection and classification of job posting, we are able to provide dynamic growth rates of occupations and skills by geography. In addition, individuals can continue to leverage existing government resources associated with specific occupation codes. 
 
 While examining the complex dynamics of large economic adaptation requires collecting and structuring vast amounts of labor related data from the internet, this model provides a practical first step towards serving low/middle skill workers with customized labor market resources. 
 <hr>
