@@ -14,7 +14,7 @@ This model can be quickly integrated into the existing O*NET web application in 
 
 While examining the complex dynamics of large economic adaptation requires collecting and structuring vast amounts of labor related data from the internet, this model provides a practical first step towards serving low/middle skill workers with customized labor market resources. 
 <hr>
-#Project Components:
+##Project Components:
 **1. Craigslist Job Scraper (iPython notebook):** code that scrapes today's job postings from Craigslist
 
 **2. ML Model (Scikit Learn):** machine learning model that takes a string of words and returns job recommnedations
